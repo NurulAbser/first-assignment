@@ -1,0 +1,122 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: opx;
+}
+
+h1 {
+  font-size: 60px;
+  font-family: "Bebas Neue", cursive;
+}
+
+.orange-color {
+  color: orange;
+}
+
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+
+.half-width img {
+  width: 100%;
+}
+
+.top-banner {
+  background-image: url("images/top-banner.png");
+  background-repeat: no-repeat;
+}
+
+section {
+  height: 1000px;
+}
+
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, lightsalmon, tomato);
+  padding: 20px 30px;
+  color: white;
+  border-radius: 5px;
+  font-weight: 700;
+}
+.about-area {
+  background-image: url("images/top-banner.png");
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.half-width3 {
+  width: 25%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+  text-align: center;
+}
+
+.half-width3 img {
+  width: 100%;
+}
+
+#work-project {
+  width: 900;
+  text-align: center;
+}
+
+.signle-project {
+  box-shadow: 10px 10px 40px rgb(214, 214, 214);
+  border-radius: 10px;
+  padding: 15px;
+  height: 63%;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+.justify-text {
+  text-align: justify;
+}
+
+.inquiry {
+  background-image: url(images/bottom.png);
+  align-items: center;
+  width: 70%;
+}
+
+.center {
+  text-align: center;
+}
+
+.bottom-banner {
+  background-image: url(images/bottom.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.inquiry-head {
+  padding-top: 22%;
+  margin-left: 26%;
+  color: white;
+}
+
+.inquiry-button {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, lightsalmon, tomato);
+  padding: 10px 20px;
+  color: white;
+  border-radius: 5px;
+  font-weight: 700;
+}
+.social-icons {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: ;
+}
+
+.social-icons li {
+  float: left;
+  margin: 10px;
+}
